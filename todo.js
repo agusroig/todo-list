@@ -4,6 +4,6 @@ function Todo({todo, index, remove}){
     } 
 
     return(
-        <div className="todo" onClick={handle}>{todo.text} <small>(remove)</small></div>
+        <div className="todo" onClick={handle}>{todo.text} <small><img src="./images/trash.svg" width="18"/></small></div>
     );
 }
