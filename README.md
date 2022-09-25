@@ -37,7 +37,8 @@
   <a href="#sparkles-features">Features</a> &#xa0; | &#xa0;
   <a href="#rocket-technologies">Technologies</a> &#xa0; | &#xa0;
   <a href="#white_check_mark-requirements">Requirements</a> &#xa0; | &#xa0;
-  <a href="#checkered_flag-starting">Starting</a> &#xa0; | &#xa0;
+  <a href="#checkered_flag-starting">How to run</a> &#xa0; | &#xa0;
+  <a href="#calendar-roadmap-of-future-improvements">Roadmap</a> &#xa0; | &#xa0;
   <a href="#memo-license">License</a> &#xa0; | &#xa0;
   <a href="https://github.com/agusroig" target="_blank">Author</a>
 </p>
@@ -46,7 +47,7 @@
 
 ## :dart: About ##
 
-Todo list is a react app, this excercise was done for the MIT fullstack developer certification, you can add and remove items from the list, the list is custom styled.
+Todo list is a react app, this excercise was done for the MIT fullstack developer certification, you can add and remove items from the list, the list is custom styled. live project https://agusroig.github.io/todo-list/
 
 ## :sparkles: Features ##
 
@@ -68,7 +69,7 @@ The following tools were used in this project:
 
 Before starting :checkered_flag:, you need to have [Git](https://git-scm.com) and [Node](https://nodejs.org/en/) installed.
 
-## :checkered_flag: Starting ##
+## :checkered_flag: How to run ##
 
 ```bash
 # Clone this project
@@ -85,6 +86,11 @@ $ npm start
 
 # The server will initialize in the <http://localhost:3000>
 ```
+## :calendar: Roadmap of future improvements ##
+
+| Goal                    |  Progress         | Status |
+| ------------- |:-------------:| -----:|
+| add priority item  | :hourglass_flowing_sand: | coming soon |
 
 ## :memo: License ##
 
