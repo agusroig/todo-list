@@ -47,7 +47,8 @@
 
 ## :dart: About ##
 
-Todo list is a react app, this excercise was done for the MIT fullstack developer certification, you can add and remove items from the list, the list is custom styled. live project https://agusroig.github.io/todo-list/
+Todo list is a react app, this excercise was done for the MIT fullstack developer certification, you can add and remove items from the list, the list is custom styled.
+[live project](https://agusroig.github.io/todo-list/)  
 
 ## :sparkles: Features ##
 
